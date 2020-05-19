@@ -16,8 +16,10 @@ Atuar como Cientista de Dados exercendo tarefas de coleta de dados estruturados 
 
 
 ## Projetos:
+
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
+* **Desafios propostos pelo curso de aceleração da Codenation:** https://github.com/eduardo-almeida/codenation
 ---
 ## Cursos:
 
