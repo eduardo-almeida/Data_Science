@@ -22,6 +22,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * **Desafios propostos pelo curso de aceleração da Codenation:** https://github.com/eduardo-almeida/codenation
 * **Desafios realizados no Kaggle:** https://github.com/eduardo-almeida/kaggle
 * **Estudos relacionados a quantitative Trading:** https://github.com/eduardo-almeida/trading
+* **Cadeira de Imerção de Dados ofertada na UFC:** https://github.com/eduardo-almeida/data-science-cookbook
 ---
 ## Cursos:
  
