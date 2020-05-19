@@ -14,19 +14,10 @@ Atuar como Cientista de Dados exercendo tarefas de coleta de dados estruturados 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)
 
-Utilizando como exemplo esses projetos não são meus.
+
 ## Projetos:
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
-* **Machine Learning para prever se uma pessoa recebe mais de 50K (dólares) no ano:** https://bit.ly/39edTmM
-* **Extraindo insights da base de dados Black Friday através da Exploratory Data Analysis(EDA):** https://bit.ly/3aluIfz
-* **Machine Learning para prever as vendas para a Black Friday:** https://bit.ly/2uQIGHm
-* **Data cleaning em gêneros de filmes utilizando a biblioteca FuzzyWuzzy:** https://bit.ly/3ad24NI
-* **Análise sobre praias atingidas pelas manchas de óleo no Nordeste:** https://bit.ly/38jSSpb
-* **Análise sobre os Acidentes nas Rodovias Federais do Brasil no Ano de 2019:** https://bit.ly/2TeKtz5
-* **Análise dos dados da Google Play Store:** https://bit.ly/2PX3wvV
-* **Análise dos dados da Apple Store:** https://bit.ly/33h3aWf
-* **Análise Exploratória de Dados com Streamlit:** https://bit.ly/2Tbn4y5
 ---
 ## Cursos:
 
