@@ -22,7 +22,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * **Desafios propostos pelo curso de aceleração da Codenation:** https://github.com/eduardo-almeida/codenation
 ---
 ## Cursos:
-
+ 
 * **Curso Imersão em ciência de Dados:** https://drive.google.com/file/d/1EIDIyn8AUL4VAziqoQneSJcIP6_jUUVR/view
 * **Curso Introdução ao Docker:** https://drive.google.com/file/d/1jeYVcLbMzI5ex3n_TYZZTl7QzW95Irbg/view
 * **Curso Introdução ao Kubernetes:** https://drive.google.com/file/d/11XmwTbvc4JqA4xVcBqkr6XEL-dFLV0Ju/view
