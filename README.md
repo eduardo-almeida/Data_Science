@@ -23,6 +23,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * **Desafios realizados no Kaggle:** https://github.com/eduardo-almeida/kaggle
 * **Estudos relacionados a quantitative Trading:** https://github.com/eduardo-almeida/trading
 * **Cadeira de Imerção de Dados ofertada na UFC:** https://github.com/eduardo-almeida/data-science-cookbook
+* **Projeto de consumo de api do governo para juntar dados referentes a licitação:** https://github.com/eduardo-almeida/compras_governamentais
 ---
 ## Cursos:
  
