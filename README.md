@@ -20,8 +20,8 @@ Projetos pessoais: execução de tarefas de coleta de dados estruturados e não-
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
-* **Desafios propostos pelo curso de aceleração da Codenation:** https://github.com/eduardo-almeida/codenation
-* **Desafios realizados no Kaggle:** https://github.com/eduardo-almeida/kaggle
+* **Desafios propostos pelo curso de aceleração da Codenation:** https://github.com/eduardo-almeida/Data_Science/tree/master/codenation
+* **Desafios realizados no Kaggle:** https://github.com/eduardo-almeida/Data_Science/tree/master/kaggle
 * **Estudos relacionados a quantitative Trading:** https://github.com/eduardo-almeida/trading
 * **Cadeira de Imerção de Dados ofertada na UFC:** https://github.com/eduardo-almeida/data-science-cookbook
 * **Projeto de consumo de api do governo para juntar dados referentes a licitação:** https://github.com/eduardo-almeida/compras_governamentais
