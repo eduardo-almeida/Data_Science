@@ -8,7 +8,17 @@
 # Eduardo Almeida
 <sub>*Data Science Student*</sub>
 
-Atuar como Cientista de Dados exercendo tarefas de coleta de dados estruturados e não-estruturados, preparação e mineração dos dados,análise estatística, análise descritiva, modelagem preditiva e Machine Learning. Possuo conhecimento na linguagem Python e nas suas principais bibliotecas para manipulação, processamento e limpeza de dados para análises complexas como Pandas, Scikit-learn e Numpy , além de conhecimentos em SQL e visualização de dados. 
+# Codenation Data Science
+
+Esse repositório contém os notebooks utilizados nas resoluções dos desafios do programa AceleraDev Data Science, oferecido pela [Codenation](https://www.codenation.dev/).
+
+* coestatistica-1: [qual estado possui os clientes com melhores pontuações de crédito?](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/coestatistica-1/Estatistica.ipynb)
+* data-science-0: [Pré-processamento de dados em Python](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-0/main.ipynb)
+* data-science-1: [Funções de probabilidade: PDF, CDF](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-1/main.ipynb)
+* data-science-2: [Funções de probabilidade: Utilizando o pacote SciPy](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-2/main.ipynb)
+* data-science-3: [Redução de dimensionalidade e seleção de variáveis: PCA e RFE](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-3/main.ipynb)
+* data-science-4: [Feature engineering](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-4/main.ipynb)
+
 
 **Background in:** Python | SQL | Machine Learning  
 
