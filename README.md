@@ -37,6 +37,6 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * [**I Hackathon de Ciência de Dados:**](https://drive.google.com/file/d/16a5Z-sOdFxARrK9HN1lixLmTWtHzkkdP/view)
 * [**Python para Finanças: Investimentos & Análise de Dados:**](https://www.udemy.com/certificate/UC-b5ec8341-d243-4c5e-8e59-f432018826ed/)
 * [**Python Fundamentos para Análise de Dados (54h):**](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
-* [**Cadeira Mineração de Dados – Ofertado pelo Professor Doutor José Antonio Macedo:**] https://www.linkedin.com/in/j-macedo/)
+* [**Cadeira Mineração de Dados – Ofertado pelo Professor Doutor José Antonio Macedo:**](https://www.linkedin.com/in/j-macedo/)
 * [**Cadeira Redes Neurais - Ofertado pelo Professor Doutor José Maria:**](https://www.linkedin.com/in/jose-maria-4720033/)
 * [**Curso como Vencer uma Competição de Ciência de dados (54h):**](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
