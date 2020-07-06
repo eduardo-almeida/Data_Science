@@ -6,7 +6,7 @@
 </p>
 
 # Eduardo Almeida
-<sub>*Data Science Student*</sub>
+<sub>*Data Science*</sub>
 
 # Codenation Data Science
 
