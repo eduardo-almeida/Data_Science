@@ -18,10 +18,12 @@ Esse repositório contém os notebooks utilizados nas resoluções dos desafios 
 * data-science-2: [Funções de probabilidade: Utilizando o pacote SciPy](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-2/main.ipynb)
 * data-science-3: [Redução de dimensionalidade e seleção de variáveis: PCA e RFE](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-3/main.ipynb)
 * data-science-4: [Feature engineering](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-4/main.ipynb)
+* enem-2: [Descubra as melhores notas de matemática do ENEM 2016](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/enem-2/Main.ipynb)
+* enem-4: [Descubra quem fez o ENEM 2016 apenas para treino](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/enem-4/Main.ipynb)
 
 
 **Background in:** Python | SQL | Machine Learning  
-
+Descubra as melhores notas de matemática do ENEM 2016
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)
 
