@@ -12,8 +12,8 @@
 
 Esse repositório contém os notebooks utilizados nas resoluções dos desafios do programa AceleraDev Data Science, oferecido pela [Codenation](https://www.codenation.dev/).
 
-* coestatistica-1: [qual estado possui os clientes com melhores pontuações de crédito?](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/coestatistica-1/Estatistica.ipynb)
-* data-science-0: [Pré-processamento de dados em Python](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-0/main.ipynb)
+* coestatistica-1: [qual estado possui os clientes com melhores pontuações de crédito?](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/coestatistica-1)
+* data-science-0: [Pré-processamento de dados em Python](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-0)
 * data-science-1: [Funções de probabilidade: PDF, CDF](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-1/main.ipynb)
 * data-science-2: [Funções de probabilidade: Utilizando o pacote SciPy](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-2/main.ipynb)
 * data-science-3: [Redução de dimensionalidade e seleção de variáveis: PCA e RFE](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-3/main.ipynb)
