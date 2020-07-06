@@ -21,22 +21,22 @@ Projetos pessoais: execução de tarefas de coleta de dados estruturados e não-
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
 * [**Projeto de estudo de Web Scraping:**](https://github.com/eduardo-almeida/Data_Science/blob/master/Webscraping/Resident%20Evil/Main.ipynb)
-* [**Desafios propostos pelo curso de aceleração da Codenation:**] (https://github.com/eduardo-almeida/Data_Science/tree/master/codenation)
-* [**Projeto de estudo de Segurança Pública de São Paulo:**] (https://github.com/eduardo-almeida/Data_Science/blob/master/seguranca_publica/Main.ipynb)
-* [**Projeto de estudo de Detecçao de imagens rotacionadas:**] (https://github.com/eduardo-almeida/Data_Science/blob/master/detectar_faces/Main.ipynb)
-* [**Desafios realizados no Kaggle:**] (https://github.com/eduardo-almeida/Data_Science/tree/master/kaggle)
-* [**Estudos relacionados a quantitative Trading:**] (https://github.com/eduardo-almeida/trading)
-* [**Cadeira de Imerção de Dados ofertada na UFC:**] (https://github.com/eduardo-almeida/data-science-cookbook)
-* [**Projeto de consumo de api do governo para juntar dados referentes a licitação:**] (https://github.com/eduardo-almeida/compras_governamentais)
+* [**Desafios propostos pelo curso de aceleração da Codenation:**](https://github.com/eduardo-almeida/Data_Science/tree/master/codenation)
+* [**Projeto de estudo de Segurança Pública de São Paulo:**](https://github.com/eduardo-almeida/Data_Science/blob/master/seguranca_publica/Main.ipynb)
+* [**Projeto de estudo de Detecçao de imagens rotacionadas:**](https://github.com/eduardo-almeida/Data_Science/blob/master/detectar_faces/Main.ipynb)
+* [**Desafios realizados no Kaggle:**](https://github.com/eduardo-almeida/Data_Science/tree/master/kaggle)
+* [**Estudos relacionados a quantitative Trading:**](https://github.com/eduardo-almeida/trading)
+* [**Cadeira de Imerção de Dados ofertada na UFC:**](https://github.com/eduardo-almeida/data-science-cookbook)
+* [**Projeto de consumo de api do governo para juntar dados referentes a licitação:**](https://github.com/eduardo-almeida/compras_governamentais)
 ---
 ## Cursos:
  
-* **Curso Imersão em ciência de Dados (40h):** https://drive.google.com/file/d/1EIDIyn8AUL4VAziqoQneSJcIP6_jUUVR/view
-* **Curso Introdução ao Docker (8h):** https://drive.google.com/file/d/1jeYVcLbMzI5ex3n_TYZZTl7QzW95Irbg/view
-* **Curso Introdução ao Kubernetes (4h):** https://drive.google.com/file/d/11XmwTbvc4JqA4xVcBqkr6XEL-dFLV0Ju/view
-* **I Hackathon de Ciência de Dados:** https://drive.google.com/file/d/16a5Z-sOdFxARrK9HN1lixLmTWtHzkkdP/view
-* **Python para Finanças: Investimentos & Análise de Dados:** https://www.udemy.com/certificate/UC-b5ec8341-d243-4c5e-8e59-f432018826ed/
-* **Python Fundamentos para Análise de Dados (54h):** https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
-* **Cadeira Mineração de Dados – Ofertado pelo Professor Doutor José Antonio Macedo:** https://www.linkedin.com/in/j-macedo/
-* **Cadeira Redes Neurais - Ofertado pelo Professor Doutor José Maria:** https://www.linkedin.com/in/jose-maria-4720033/
-* **Curso como Vencer uma Competição de Ciência de dados (54h):** https://www.coursera.org/learn/competitive-data-science?specialization=aml
+* [**Curso Imersão em ciência de Dados (40h):**](https://drive.google.com/file/d/1EIDIyn8AUL4VAziqoQneSJcIP6_jUUVR/view)
+* [**Curso Introdução ao Docker (8h):**](https://drive.google.com/file/d/1jeYVcLbMzI5ex3n_TYZZTl7QzW95Irbg/view)
+* [**Curso Introdução ao Kubernetes (4h):**](https://drive.google.com/file/d/11XmwTbvc4JqA4xVcBqkr6XEL-dFLV0Ju/view)
+* [**I Hackathon de Ciência de Dados:**](https://drive.google.com/file/d/16a5Z-sOdFxARrK9HN1lixLmTWtHzkkdP/view)
+* [**Python para Finanças: Investimentos & Análise de Dados:**](https://www.udemy.com/certificate/UC-b5ec8341-d243-4c5e-8e59-f432018826ed/)
+* [**Python Fundamentos para Análise de Dados (54h):**](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+* [**Cadeira Mineração de Dados – Ofertado pelo Professor Doutor José Antonio Macedo:**] https://www.linkedin.com/in/j-macedo/)
+* [**Cadeira Redes Neurais - Ofertado pelo Professor Doutor José Maria:**](https://www.linkedin.com/in/jose-maria-4720033/)
+* [**Curso como Vencer uma Competição de Ciência de dados (54h):**](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
