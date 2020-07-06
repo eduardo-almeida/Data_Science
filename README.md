@@ -35,7 +35,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * [**Curso Introdução ao Docker (8h):**](https://drive.google.com/file/d/1jeYVcLbMzI5ex3n_TYZZTl7QzW95Irbg/view)
 * [**Curso Introdução ao Kubernetes (4h):**](https://drive.google.com/file/d/11XmwTbvc4JqA4xVcBqkr6XEL-dFLV0Ju/view)
 * [**I Hackathon de Ciência de Dados:**](https://drive.google.com/file/d/16a5Z-sOdFxARrK9HN1lixLmTWtHzkkdP/view)
-* [**Python para Finanças: Investimentos & Análise de Dados:**](https://www.udemy.com/certificate/UC-b5ec8341-d243-4c5e-8e59-f432018826ed/)
+* [**Python para Finanças: Investimentos & Análise de Dados (7h):**](https://www.udemy.com/certificate/UC-b5ec8341-d243-4c5e-8e59-f432018826ed/)
 * [**Python Fundamentos para Análise de Dados (54h):**](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
 * [**Cadeira Mineração de Dados – Ofertado pelo Professor Doutor José Antonio Macedo:**](https://www.linkedin.com/in/j-macedo/)
 * [**Cadeira Redes Neurais - Ofertado pelo Professor Doutor José Maria:**](https://www.linkedin.com/in/jose-maria-4720033/)
