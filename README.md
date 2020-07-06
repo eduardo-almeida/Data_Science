@@ -31,9 +31,9 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 ---
 ## Cursos:
  
-* **Curso Imersão em ciência de Dados:** https://drive.google.com/file/d/1EIDIyn8AUL4VAziqoQneSJcIP6_jUUVR/view
-* **Curso Introdução ao Docker:** https://drive.google.com/file/d/1jeYVcLbMzI5ex3n_TYZZTl7QzW95Irbg/view
-* **Curso Introdução ao Kubernetes:** https://drive.google.com/file/d/11XmwTbvc4JqA4xVcBqkr6XEL-dFLV0Ju/view
+* **Curso Imersão em ciência de Dados(40h):** https://drive.google.com/file/d/1EIDIyn8AUL4VAziqoQneSJcIP6_jUUVR/view
+* **Curso Introdução ao Docker(8h):** https://drive.google.com/file/d/1jeYVcLbMzI5ex3n_TYZZTl7QzW95Irbg/view
+* **Curso Introdução ao Kubernetes(4h):** https://drive.google.com/file/d/11XmwTbvc4JqA4xVcBqkr6XEL-dFLV0Ju/view
 * **I Hackathon de Ciência de Dados:** https://drive.google.com/file/d/16a5Z-sOdFxARrK9HN1lixLmTWtHzkkdP/view
 * **Python para Finanças: Investimentos & Análise de Dados:** https://www.udemy.com/certificate/UC-b5ec8341-d243-4c5e-8e59-f432018826ed/
 * **Python Fundamentos para Análise de Dados:** https://www.datascienceacademy.com.br/course?courseid=python-fundamentos
