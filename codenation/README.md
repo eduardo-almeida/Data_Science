@@ -22,8 +22,6 @@ Esse repositório contém os notebooks utilizados nas resoluções dos desafios 
 * enem-4: [Descubra quem fez o ENEM 2016 apenas para treino](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/enem-4)
 
 
-**Background in:** Python | SQL | Machine Learning  
-Descubra as melhores notas de matemática do ENEM 2016
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)
 
