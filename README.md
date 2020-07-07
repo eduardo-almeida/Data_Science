@@ -25,7 +25,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * [**Projeto de estudo de Segurança Pública de São Paulo:**](https://github.com/eduardo-almeida/Data_Science/blob/master/seguranca_publica/Main.ipynb)
 * [**Projeto de estudo de Detecçao de imagens rotacionadas:**](https://github.com/eduardo-almeida/Data_Science/blob/master/detectar_faces/Main.ipynb)
 * [**Desafios realizados no Kaggle:**](https://github.com/eduardo-almeida/Data_Science/tree/master/kaggle)
-* [**Estudos relacionados a quantitative Trading:**](https://github.com/eduardo-almeida/trading)
+* [**Estudos relacionados a quantitative Trading:**](https://github.com/eduardo-almeida/Data_Science/tree/master/trading)
 * [**Cadeira de Imerção de Dados ofertada na UFC:**](https://github.com/eduardo-almeida/data-science-cookbook)
 * [**Projeto de consumo de api do governo para juntar dados referentes a licitação:**](https://github.com/eduardo-almeida/compras_governamentais)
 ---
