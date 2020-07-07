@@ -21,7 +21,7 @@ Projetos pessoais: execução de tarefas de coleta de dados estruturados e não-
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
 * [**Projeto de estudo de Web Scraping:**](https://github.com/eduardo-almeida/Data_Science/blob/master/Webscraping/Resident%20Evil/Main.ipynb)
-* [**Desafios propostos pelo curso de aceleração da Codenation:**](https://github.com/eduardo-almeida/Data_Science/tree/master/codenation)
+* [**Desafios propostos pelo curso de aceleração da Codenation: PDF, CDF, SciPy, PCA e RFE**](https://github.com/eduardo-almeida/Data_Science/tree/master/codenation)
 * [**Projeto de estudo de Segurança Pública de São Paulo:**](https://github.com/eduardo-almeida/Data_Science/blob/master/seguranca_publica/Main.ipynb)
 * [**Projeto de estudo de Detecçao de imagens rotacionadas:**](https://github.com/eduardo-almeida/Data_Science/blob/master/detectar_faces/Main.ipynb)
 * [**Desafios realizados no Kaggle:**](https://github.com/eduardo-almeida/Data_Science/tree/master/kaggle)
