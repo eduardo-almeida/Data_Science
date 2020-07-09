@@ -1,0 +1,35 @@
+# Disable sudo to speed up the build
+sudo: false
+
+# Language and versions
+language: python
+python:
+  - "2.7"
+  - "3.4"
+  - "3.5"
+  - "3.6"
+  - "3.7"
+cache: pip
+
+# Pip installs
+install:
+  - pip install codecov
+  - pip install -r requirements.txt
+  - pip install -e .
+env:
+  global:
+    - SDL_VIDEODRIVER=dummy
+    - SDL_AUDIODRIVER=disk
+
+# Run scripts
+script:
+  - nosetests test/ -v --with-coverage
+
+# Push the results back to codecov
+after_success:
+  - codecov
+
+# Notification configuration
+notifications:
+  irc: false
+  email: false

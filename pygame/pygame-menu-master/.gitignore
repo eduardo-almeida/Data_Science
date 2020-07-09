@@ -1,0 +1,22 @@
+# Pycharm files
+.idea/
+.ropeproject/
+
+# Vscode files
+.vscode/
+
+# Zip files
+*.zip
+
+# Compiled python files
+*/__pycache__
+*.pyc
+
+# Distribution files
+*.egg-info
+build/*
+dist
+build.bat
+
+# Other example files
+other/

@@ -1,0 +1,4 @@
+exclude test/*.py
+include requirements.txt
+recursive-include pygameMenu/fonts *.ttf
+recursive-include pygameMenu/sounds *.ogg
