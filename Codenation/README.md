@@ -8,7 +8,7 @@
 # Eduardo Almeida
 <sub>*Data Science*</sub>
 
-# Codenation Data Science
+# Codenation Data Science 
 
 Esse repositório contém os notebooks utilizados nas resoluções dos desafios do programa AceleraDev Data Science, oferecido pela [Codenation](https://www.codenation.dev/).
 
