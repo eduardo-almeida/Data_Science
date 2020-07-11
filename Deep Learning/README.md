@@ -8,7 +8,8 @@
 # Eduardo Almeida
 <sub>*Data Science Student*</sub>
 
-  
+Ainda organizando essa sessão:
+Colocar os assuntos abordados
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)
