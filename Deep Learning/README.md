@@ -8,7 +8,7 @@
 # Eduardo Almeida
 <sub>*Data Science Student*</sub>
 
-Ainda organizando essa sessão:
+Ainda organizando essa sessão:  
 Colocar os assuntos abordados
 
 **Links:**
