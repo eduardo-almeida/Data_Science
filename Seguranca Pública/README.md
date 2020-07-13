@@ -1,4 +1,4 @@
-## Estudo das Ocorrências de Roubo de Celular na Capital de São Paulo
+## Estudo das Ocorrências de Roubo de Celular na Capital de São Paulo 
 
   Os dados presentes neste repositório fornecem as ocorrências de roubo de celular da cidade de São Paulo do período de 
   Janeiro de 2010 até Novembro de 2018. Os dados foram obtidos através da Secretaria Da Segurança Pública do Governo do Estado
