@@ -1,0 +1,10 @@
+4 leite cerveja pao manteiga
+3 cafe pao manteiga
+3 cafe pao manteiga
+4 leite cafe pao manteiga
+1 cerveja
+1 manteiga
+1 pao 
+1 feijao
+2 arroz feijao
+1 arroz

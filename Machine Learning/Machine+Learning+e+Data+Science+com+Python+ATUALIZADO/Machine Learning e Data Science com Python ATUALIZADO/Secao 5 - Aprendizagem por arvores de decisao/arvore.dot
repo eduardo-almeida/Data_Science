@@ -1,0 +1,38 @@
+digraph Tree {
+node [shape=box, style="filled", color="black"] ;
+graph [ranksep=equally, splines=polyline] ;
+0 [label="renda <= 1.5\nentropy = 1.531\nsamples = 14\nvalue = [6, 5, 3]\nclass = alto", fillcolor="#fcf1e9"] ;
+1 [label="renda <= 0.5\nentropy = 0.863\nsamples = 7\nvalue = [5, 0, 2]\nclass = alto", fillcolor="#efb388"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="entropy = 0.0\nsamples = 3\nvalue = [3, 0, 0]\nclass = alto", fillcolor="#e58139"] ;
+1 -> 2 ;
+3 [label="divida <= 0.5\nentropy = 1.0\nsamples = 4\nvalue = [2, 0, 2]\nclass = alto", fillcolor="#ffffff"] ;
+1 -> 3 ;
+4 [label="historia <= 0.5\nentropy = 0.918\nsamples = 3\nvalue = [2, 0, 1]\nclass = alto", fillcolor="#f2c09c"] ;
+3 -> 4 ;
+5 [label="entropy = 0.0\nsamples = 1\nvalue = [0, 0, 1]\nclass = moderado", fillcolor="#8139e5"] ;
+4 -> 5 ;
+6 [label="entropy = 0.0\nsamples = 2\nvalue = [2, 0, 0]\nclass = alto", fillcolor="#e58139"] ;
+4 -> 6 ;
+7 [label="entropy = 0.0\nsamples = 1\nvalue = [0, 0, 1]\nclass = moderado", fillcolor="#8139e5"] ;
+3 -> 7 ;
+8 [label="historia <= 1.5\nentropy = 1.149\nsamples = 7\nvalue = [1, 5, 1]\nclass = baixo", fillcolor="#7beeab"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="historia <= 0.5\nentropy = 0.65\nsamples = 6\nvalue = [1, 5, 0]\nclass = baixo", fillcolor="#61ea9a"] ;
+8 -> 9 ;
+10 [label="entropy = 0.0\nsamples = 3\nvalue = [0, 3, 0]\nclass = baixo", fillcolor="#39e581"] ;
+9 -> 10 ;
+11 [label="garantias <= 0.5\nentropy = 0.918\nsamples = 3\nvalue = [1, 2, 0]\nclass = baixo", fillcolor="#9cf2c0"] ;
+9 -> 11 ;
+12 [label="entropy = 0.0\nsamples = 1\nvalue = [0, 1, 0]\nclass = baixo", fillcolor="#39e581"] ;
+11 -> 12 ;
+13 [label="entropy = 1.0\nsamples = 2\nvalue = [1, 1, 0]\nclass = alto", fillcolor="#ffffff"] ;
+11 -> 13 ;
+14 [label="entropy = 0.0\nsamples = 1\nvalue = [0, 0, 1]\nclass = moderado", fillcolor="#8139e5"] ;
+8 -> 14 ;
+{rank=same ; 0} ;
+{rank=same ; 1; 8} ;
+{rank=same ; 3; 9} ;
+{rank=same ; 4; 11} ;
+{rank=same ; 2; 5; 6; 7; 10; 12; 13; 14} ;
+}

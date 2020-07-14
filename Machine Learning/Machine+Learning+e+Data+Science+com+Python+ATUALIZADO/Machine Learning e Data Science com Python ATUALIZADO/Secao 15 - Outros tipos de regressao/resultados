@@ -1,0 +1,36 @@
+Base de dados house prices
+
+Regressão Linear Simples
+-------------------------------
+Score: 0.49 / 0.48
+MAE: 172604.12
+
+Regressão Linear Múltipla
+-------------------------------
+Score: 0.70 / 0.68
+MAE: 123888.44
+
+Regressão Polinomial (degree = 2)
+-------------------------------
+Score: 0.81 / 0.81
+MAE: 101227.51
+
+Regressão com árvore de decisão
+-------------------------------
+Score: 0.99 / 0.71
+MAE: 100328.35
+
+Random forest (100 árvores)
+-------------------------------
+Score: 0.98 / 0.87
+MAE: 67931.64
+
+SVR kernel rbf
+------------------------------
+Score: 0.81 / 0.73
+MAE: 82479.21
+
+Redes neurais (9, 9)
+------------------------------
+Score: 0.87 / 0.87
+MAE: 78698.09
