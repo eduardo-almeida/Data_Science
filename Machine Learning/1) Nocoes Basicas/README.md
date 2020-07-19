@@ -8,8 +8,7 @@
 # Eduardo Almeida
 <sub>*Data Science Student*</sub>
 
-Trabalhos com trading  
-
+Trabalhos com trading Noções Básicas de Machine Learning
 **Background in:** Python | SQL | Machine Learning  
 
 **Links:**
