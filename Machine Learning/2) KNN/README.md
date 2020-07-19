@@ -8,7 +8,7 @@
 # Eduardo Almeida
 <sub>*Data Science Student*</sub>
 
-Trabalhos com trading  
+Teorias e exercícios com KNN
 
 **Background in:** Python | SQL | Machine Learning  
 
