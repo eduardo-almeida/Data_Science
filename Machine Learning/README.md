@@ -8,7 +8,8 @@
 # Eduardo Almeida
 <sub>*Data Science Student*</sub>
 
-Trabalhos com trading  
+**Trabalhos com os temas principais de Machine Learning:**
+* [KNN](https://github.com/eduardo-almeida/Data_Science/tree/master/Machine%20Learning/2)%20KNN)
 
 **Background in:** Python | SQL | Machine Learning  
 
