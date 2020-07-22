@@ -1,0 +1,7 @@
+*.db
+*.pyc
+__pycache__
+*.xlsx
+*.xls
+*.csv
+.vscode
