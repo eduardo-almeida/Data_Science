@@ -6,7 +6,7 @@
 </p>
 
 # Eduardo Almeida
-<sub>*Data Science Student*</sub>
+<sub>*Data Science Student*</sub>  
 
 The program takes a folder with several images and rotates them to be correct.
 It is still missing to do the csv, but due to the time I preferred to deliver a program running. After finishing this selection I will develop this solution. As I must not tamper with the code before evaluation, I will wait to finish.
