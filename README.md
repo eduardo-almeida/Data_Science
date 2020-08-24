@@ -3,7 +3,7 @@
 <p align="center">
   <img src="banner.jpeg" >
 </p>
-
+  
 # Eduardo Almeida 
 <sub>*Data Science Student*</sub>  
 
