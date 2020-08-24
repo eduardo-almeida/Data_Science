@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="codenation.png" >
-</p>
+</p>  
 
 # Eduardo Almeida
 <sub>*Data Science*</sub>
