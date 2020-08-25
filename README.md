@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="banner.jpeg" >
-</p>
-
+</p>    
+  
 # Eduardo Almeida 
 <sub>*Data Science Student*</sub>  
 
