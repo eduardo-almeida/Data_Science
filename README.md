@@ -7,7 +7,7 @@
 # Eduardo Almeida 
 <sub>*Data Science Student*</sub>  
 
-Cientista de Dados Júnior. Graduado em Ciência da Computação pela Universidade Federal do Ceará. 
+Cientista de Dados Júnior. Graduado em Ciência da Computação pela Universidade Federal do Ceará.   
 Projetos pessoais: execução de tarefas de coleta de dados estruturados e não-estruturados, preparação e mineração dos dados, análise estatística, análise descritiva, modelagem preditiva e Machine Learning. Conhecimento em linguagem Python e suas principais bibliotecas para manipulação, processamento e limpeza de dados para análises complexas como Pandas, Scikit-learn e Numpy, além de conhecimento em SQL e visualização de dados.    
 
 **Background in:** Python | SQL | Machine Learning  
