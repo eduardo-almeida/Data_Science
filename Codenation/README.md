@@ -12,14 +12,14 @@
 
 Esse repositório contém os notebooks utilizados nas resoluções dos desafios do programa AceleraDev Data Science, oferecido pela [Codenation](https://www.codenation.dev/).
 
-* coestatistica-1: [qual estado possui os clientes com melhores pontuações de crédito?](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/coestatistica-1)
-* data-science-0: [Pré-processamento de dados em Python](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-0)
-* data-science-1: [Funções de probabilidade: PDF, CDF](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-1)
-* data-science-2: [Funções de probabilidade: Utilizando o pacote SciPy](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-2)
-* data-science-3: [Redução de dimensionalidade e seleção de variáveis: PCA e RFE](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-3)
-* data-science-4: [Feature engineering](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/data-science-4)
-* enem-2: [Descubra as melhores notas de matemática do ENEM 2016](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/enem-2)
-* enem-4: [Descubra quem fez o ENEM 2016 apenas para treino](https://github.com/eduardo-almeida/Data_Science/blob/master/codenation/enem-4)
+* coestatistica-1: [qual estado possui os clientes com melhores pontuações de crédito?](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation/coestatistica-1)
+* data-science-0: [Pré-processamento de dados em Python](https://github.com/eduardo-almeida/Data_Science/tree/master/codenation/data-science-0)
+* data-science-1: [Funções de probabilidade: PDF, CDF](https://github.com/eduardo-almeida/Data_Science/tree/master/codenation/data-science-1)
+* data-science-2: [Funções de probabilidade: Utilizando o pacote SciPy](https://github.com/eduardo-almeida/Data_Science/tree/master/codenation/data-science-2)
+* data-science-3: [Redução de dimensionalidade e seleção de variáveis: PCA e RFE](https://github.com/eduardo-almeida/Data_Science/tree/master/codenation/data-science-3)
+* data-science-4: [Feature engineering](https://github.com/eduardo-almeida/Data_Science/tree/master/codenation/data-science-4)
+* enem-2: [Descubra as melhores notas de matemática do ENEM 2016](https://github.com/eduardo-almeida/Data_Science/tree/master/codenation/enem-2)
+* enem-4: [Descubra quem fez o ENEM 2016 apenas para treino](https://github.com/eduardo-almeida/Data_Science/tree/master/codenation/enem-4)
 
 
 **Links:**
