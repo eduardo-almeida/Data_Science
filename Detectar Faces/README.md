@@ -7,10 +7,9 @@
 
 # Eduardo Almeida
 <sub>*Data Science Student*</sub>  
-Organizar passo a passo com instalar o projeto
-The program takes a folder with several images and rotates them to be correct.
-It is still missing to do the csv, but due to the time I preferred to deliver a program running. After finishing this selection I will develop this solution. As I must not tamper with the code before evaluation, I will wait to finish.
-Note: I would like a feedblack of how the program is doing.
+O programa pega uma pasta com várias imagens e as gira para ficarem corretas.
+
+https://gist.github.com/csaftoiu/9fccaf47fd8f96cd378afd8fdd0d63c1
 
 **Background in:** Python | SQL | Machine Learning  
 
