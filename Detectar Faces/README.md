@@ -21,6 +21,7 @@ Se você esperar até que sua rede esteja totalmente treinada para enviar seu c�
 Oh não! Nosso conjunto de dados de reconhecimento facial ficou todo confuso. Temos milhares de imagens, mas algumas delas foram giradas para a esquerda, giradas para a direita e viradas de cabeça para baixo!
 
 As imagens na vertical são assim:
+
 ![upright](https://imgur.com/WY6x3RG.jpg)
 
 E alguns foram misturados assim:
