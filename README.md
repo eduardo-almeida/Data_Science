@@ -20,6 +20,11 @@ Projetos pessoais: execução de tarefas de coleta de dados estruturados e não-
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
+
+* [**Estudo sobre a OList:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Olist-ML-models) Atidade completa, começando por um **ETL**, em que baixo os dados do kaggle, para em seguida transformo eles torná-los mais adequados aos estudos e por fim crio modelos pra testar qual o mais adequado. (Ainda em andamento).
+
+* [**Linkedin:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Web%20scraping/Linkedin) Nesta atividade utilizando o **Selenium** realizo um **Web Scraping** no Linkedin para em um segundo momento utilizar o **NLTk** para descobrir quais as skills mais pedidas pelos recrutadores.
+
 * [**Desafios propostos pelo curso de aceleração da Codenation:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation) Desafios práticos com foco em funções estatísticas, tais como PDF, CDF, PCA e RFE. Utilização de dados reais provenientes do Enem, dos Atletas Olímpicos e dos jogadores da FIFA.
 * [**Projeto de consumo de api do governo:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Compras%20%20Governamentais) Um MOC onde consumo uma api do governo com a biblioteca request e uso merge para unir várias tabelas, tornando mais inteligível para o usuário.
 * [**Identificação de inclinação de imagens:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Detectar%20Faces) Aprendizagem de imagem  supervisionado, utilizando um conjunto de 50.000 imagens já rotuladas com o valor de rotação. Identificação da inclinação e realinhamento, em outro dataframe, contendo 5.000 novas imagens.
