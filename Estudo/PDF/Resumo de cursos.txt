@@ -1,0 +1,80 @@
+Resumo de cursos realizados
+
+https://github.com/eduardo-almeida/Data_Science
+
+Curso Imersão em ciência de Dados (40h):
+	https://github.com/eduardo-almeida/data-science-cookbook/tree/master/2019
+	Cadeira na epoca da faculdade onde tive acesso a muitos topicos que estão listados nesse link.
+	Exemplos como o KNN, naive-bayes, regressão linear, redes neurais, arvores de descisão, clusterização, scala e muito mais
+
+I Hackathon de Ciência de Dados:
+	https://drive.google.com/file/d/16a5Z-sOdFxARrK9HN1lixLmTWtHzkkdP/view
+	Competição realizada pela UFC com 6 equipes, ficamos em segundo lugar
+
+Python para Finanças: Investimentos & Análise de Dados (7h):
+	https://www.udemy.com/course/python-para-financas-investimentos-analise-de-dados/
+	curso voltado a utilização de dados com series temporais, com foco em analises de dados para a finanças
+
+Python Fundamentos para Análise de Dados (60h):
+	https://www.datascienceacademy.com.br/path-player?courseid=python-fundamentos&unit=5ab17db15e4cde96958b4580Unit
+	Excelente curso voltado para dar uma base solida sobre python, usando Jupiter noteebook ou o Google Colab
+
+Curso como Vencer uma Competição de Ciência de dados (54h):
+	https://www.coursera.org/learn/competitive-data-science?specialization=aml
+	Curso voltado a desenvolver tecnicas para as competições do Kaggle (site especializado em competições de data Science)
+	
+Previsões de série temporal: COVID-19 (8h):
+	https://cursos.alura.com.br/course/previsoes-serie-temporal-covid-19
+	Curso voltado para a area de series temporais, focado em modelos como o Arima e utilizando conceitos de tendência, sazonalidade, erro e ciclicidade
+
+Power BI Desktop: construindo meu primeiro dashboard (8h):
+	https://cursos.alura.com.br/course/power-bi-desktop-primeiro-dashboard
+	Conceitos iniciais de Power BI indo do zero até uma plicação feita. A baixo o link para o projeto feito
+	https://app.powerbi.com/view?r=eyJrIjoiMjQ0YzQ3NGEtNmM5MS00ZDgyLTljMDMtYWI3YzQwZDc2N2UzIiwidCI6Ijc3ZDY4MzIzLTZmNGItNDYwZi04YWFlLWQzMmM2NTRlYzQ5MCJ9
+	
+Curso de aceleração da Codenation(32h): 
+	https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation
+	Desafios práticos com foco em funções estatísticas, tais como PDF, CDF, PCA e RFE. Utilização de dados reais provenientes do Enem, 
+	dos Atletas Olímpicos e dos jogadores da FIFA.
+	
+Python Programming for Beginners in Data Science (14h):
+	https://www.udemy.com/course/just-enough-python/
+	Curso voltado para formação basica de python, pandas, numpy
+	
+Learn NumPy Fundamentals (Python Library for Data Science) (2h):
+	https://www.udemy.com/course/python-numpy-fundamentals/
+	Curso voltado para Numpy explicando todas as funções que serão necessárias.
+	
+Data Science: Visualização de Dados com Python (1h):
+	https://www.udemy.com/course/visualizacao-de-dados-com-python/
+	Curso voltado para criação de graficos com a biblioteca Pyplot e matplot
+	
+Machine Learning e Data Science com Python de A a Z (42h):
+	https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/
+	Curso bem completo onde se ensina varios algoritmos uteis e bibliotecas (Pandas, numpy, sklearn) 
+	
+Projeto de consumo de api do governo: 
+	https://github.com/eduardo-almeida/Data_Science/tree/master/Compras%20%20Governamentais
+	Um MOC onde consumo uma api do governo com a biblioteca request e uso merge para unir várias tabelas, tornando mais inteligível para o usuário.
+	
+Identificação de inclinação de imagens: 
+	https://github.com/eduardo-almeida/Data_Science/tree/master/Detectar%20Faces
+	Aprendizagem de imagem supervisionado, utilizando um conjunto de 50.000 imagens já rotuladas com o valor de rotação. 
+	Identificação da inclinação e realinhamento, em outro dataframe, contendo 5.000 novas imagens.
+	
+Projeto de Webscraping: 
+	https://github.com/eduardo-almeida/Data_Science/tree/master/Webscraping
+	Um MOC simples para aprender web scraping e usar a biblioteca request.
+	
+Estudo de Segurança Pública: 
+	https://github.com/eduardo-almeida/Data_Science/tree/master/Seguranca%20P%C3%BAblica
+	Realização de um estudo de caso para fins de verificação de quais ruas e bairros onde mais ocorrem roubos, 
+	utilizando dados disponibilizados pela Secretaria de Segurança de São Paulo. Utilização do modelo Arima para prever a quantidade de novos casos.
+	
+Desafios realizados no Kaggle:
+	https://github.com/eduardo-almeida/Data_Science/tree/master/Kaggle
+	Plataforma de competição de Data Science mais popular 
+	
+Esses são os cursos e desafios que cheguei a participar, não incluir blogs aos quais costumo ler materias. 
+Sei que ainda falta muito a crescer, mas estou aberto a novos conhecimentos. 
+Sempre disposto a aprender
