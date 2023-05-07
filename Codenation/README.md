@@ -5,8 +5,6 @@
   <img src="codenation.png" >    
 </p>  
 
-# Eduardo Almeida
-<sub>*Data Science*</sub>
 
 # Codenation Data Science 
 
