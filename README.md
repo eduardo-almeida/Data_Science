@@ -48,3 +48,15 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * [**Python para Finanças: Investimentos & Análise de Dados (7h):**](https://www.udemy.com/certificate/UC-b5ec8341-d243-4c5e-8e59-f432018826ed/)
 * [**Fundamentos de Linguagem Python Para Análise de Dados e Data Science (72):**](https://www.datascienceacademy.com.br/cursosgratuitos)
 * [**Curso como Vencer uma Competição de Ciência de dados (54h):**](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
+
+## Trilha Alura:
+* [**Data Science: analise e visualização de dados (6h):**](https://cursos.alura.com.br/course/data-science-primeiros-passos)
+* [**Python Pandas: tratando e analisando dados (12h):**](https://cursos.alura.com.br/course/introducao-python-pandas)
+* [**Estatística com Python: frequências e medidas (10h):**](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas)
+* [**Estatística com Python: probabilidade e amostragem (10h):**](https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem)
+* [**Regressão linear: testando relações e prevendo resultados (12h):**](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear)
+* [**Regressão Linear: técnicas avançadas de modelagem (5h):**](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel)
+* [**Data Visualization: criação de gráficos com o Matplotlib (54h):**](https://cursos.alura.com.br/course/customizacao-matplot)
+* [**Data Visualization: técnicas de visualização com Google Sheets (8h):**](https://cursos.alura.com.br/course/data-visualization-visualizacao-google-sheets)
+* [**Data Science: testes estatísticos com Python (6h):**](https://cursos.alura.com.br/course/data-science-introducao-a-testes-estatisticos-com-python)
+* [**Análise de experimentos: testes, mapas de cores e análises dos dados. (6h):**](https://cursos.alura.com.br/course/analise-de-experimentos)
