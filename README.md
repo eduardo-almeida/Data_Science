@@ -5,7 +5,6 @@
 </p>    
   
 # Eduardo Almeida 
-<sub>*Data Science *</sub>  
 
 Sou um Cientista de Dados graduado em Ciência da Computação pela Universidade Federal do Ceará, e tenho experiência em projetos pessoais envolvendo a coleta, preparação e análise de dados estruturados e não estruturados. Além disso, possuo conhecimentos em análise estatística, análise descritiva, modelagem preditiva e Machine Learning. Utilizo frequentemente a linguagem Python e suas principais bibliotecas, como Pandas, Scikit-learn e Numpy, para manipulação, processamento e limpeza de dados em análises complexas. Também possuo habilidades em SQL e visualização de dados. 
 
@@ -24,15 +23,20 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 
 * [**Linkedin:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Web%20scraping/Linkedin) Nesta atividade utilizando o **Selenium** realizo um **Web Scraping** no Linkedin para em um segundo momento utilizar o **NLTk** para descobrir quais as skills mais pedidas pelos recrutadores.
 
-* [**Desafios propostos pelo curso de aceleração da Codenation:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation) Desafios práticos com foco em funções estatísticas, tais como PDF, CDF, PCA e RFE. Utilização de dados reais provenientes do Enem, dos Atletas Olímpicos e dos jogadores da FIFA.
-* [**Projeto de consumo de api do governo:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Compras%20%20Governamentais) Um MOC onde consumo uma api do governo com a biblioteca request e uso merge para unir várias tabelas, tornando mais inteligível para o usuário.
 * [**Identificação de inclinação de imagens:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Detectar%20Faces) Aprendizagem de imagem  supervisionado, utilizando um conjunto de 50.000 imagens já rotuladas com o valor de rotação. Identificação da inclinação e realinhamento, em outro dataframe, contendo 5.000 novas imagens.
-* [**Projeto de Webscraping::**](https://github.com/eduardo-almeida/Data_Science/tree/master/Webscraping) Um MOC simples para aprender web scraping e usar a biblioteca request.
-* [**Estudo de Segurança Pública:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Seguranca%20P%C3%BAblica) Realização de um estudo de caso para fins de verificação de quais ruas e bairros onde mais ocorrem roubos, utilizando  dados disponibilizados pela Secretaria de Segurança de São Paulo. Utilização do modelo Arima para prever a quantidade de novos casos.
 
+* [**Projeto de consumo de api do governo:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Compras%20%20Governamentais) Um MOC onde consumo uma api do governo com a biblioteca request e uso merge para unir várias tabelas, tornando mais inteligível para o usuário.
+
+* [**Estudo de Segurança Pública:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Seguranca%20P%C3%BAblica) Realização de um estudo de caso para fins de verificação de quais ruas e bairros onde mais ocorrem roubos, utilizando  dados disponibilizados pela Secretaria de Segurança de São Paulo. Utilização do modelo Arima para prever a quantidade de novos casos.
+* 
+* [**Projeto de Webscraping::**](https://github.com/eduardo-almeida/Data_Science/tree/master/Webscraping) Um MOC simples para aprender web scraping e usar a biblioteca request.
+
+* [**Estudos relacionados a quantitative Trading:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Trading)
+
+* [**Desafios propostos pelo curso de aceleração da Codenation:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation) Desafios práticos com foco em funções estatísticas, tais como PDF, CDF, PCA e RFE. Utilização de dados reais provenientes do Enem, dos Atletas Olímpicos e dos jogadores da FIFA.
 
 * [**Desafios realizados no Kaggle:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Kaggle)
-* [**Estudos relacionados a quantitative Trading:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Trading)
+ 
 * [**Cadeira de Imerção de Dados ofertada na UFC:**](https://github.com/eduardo-almeida/data-science-cookbook)
 ---
 ## Cursos:
