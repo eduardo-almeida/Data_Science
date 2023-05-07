@@ -5,10 +5,11 @@
 </p>    
   
 # Eduardo Almeida 
-<sub>*Data Science *</sub>  
 
-Cientista de Dados Júnior. Graduado em Ciência da Computação pela Universidade Federal do Ceará.   
-Projetos pessoais: execução de tarefas de coleta de dados estruturados e não-estruturados, preparação e mineração dos dados, análise estatística, análise descritiva, modelagem preditiva e Machine Learning. Conhecimento em linguagem Python e suas principais bibliotecas para manipulação, processamento e limpeza de dados para análises complexas como Pandas, Scikit-learn e Numpy, além de conhecimento em SQL e visualização de dados.    
+## NBViewer
+Utilize o NBViewer para visualizar os notebook sem precisar baixar todo o projeto:
+* [ETL](https://nbviewer.org/github/eduardo-almeida/Data_Science/blob/master/Olist-ML-models/ETL.ipynb)
+
 
 **Background in:** Python | SQL | Machine Learning  
 
@@ -20,19 +21,5 @@ Projetos pessoais: execução de tarefas de coleta de dados estruturados e não-
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
-* [**Desafios propostos pelo curso de aceleração da Codenation:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation) Desafios práticos com foco em funções estatísticas, tais como PDF, CDF, PCA e RFE. Utilização de dados reais provenientes do Enem, dos Atletas Olímpicos e dos jogadores da FIFA.
-
-
-* [**Desafios realizados no Kaggle:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Kaggle)
-* [**Estudos relacionados a quantitative Trading:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Trading)
-* [**Cadeira de Imerção de Dados ofertada na UFC:**](https://github.com/eduardo-almeida/data-science-cookbook)
+* **Lista de todos os projetos realizados:** https://github.com/eduardo-almeida/Data_Science
 ---
-## Cursos:
- 
-* [**Curso Imersão em ciência de Dados (40h):**](https://drive.google.com/file/d/1EIDIyn8AUL4VAziqoQneSJcIP6_jUUVR/view)
-* [**Curso Introdução ao Docker (8h):**](https://drive.google.com/file/d/1jeYVcLbMzI5ex3n_TYZZTl7QzW95Irbg/view)
-* [**Curso Introdução ao Kubernetes (4h):**](https://drive.google.com/file/d/11XmwTbvc4JqA4xVcBqkr6XEL-dFLV0Ju/view)
-* [**I Hackathon de Ciência de Dados:**](https://drive.google.com/file/d/16a5Z-sOdFxARrK9HN1lixLmTWtHzkkdP/view)
-* [**Python para Finanças: Investimentos & Análise de Dados (7h):**](https://www.udemy.com/certificate/UC-b5ec8341-d243-4c5e-8e59-f432018826ed/)
-* [**Python Fundamentos para Análise de Dados (54h):**](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
-* [**Curso como Vencer uma Competição de Ciência de dados (54h):**](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
