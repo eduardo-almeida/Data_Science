@@ -13,13 +13,7 @@ Utilize o NBViewer para visualizar os notebook sem precisar baixar todo o projet
 
 **Background in:** Python | SQL | Machine Learning  
 
-**Links:**
+## **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)
 
-
-## Projetos:
-
-Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
-
-* **Lista de todos os projetos realizados:** https://github.com/eduardo-almeida/Data_Science
----
+* [Github](https://github.com/eduardo-almeida/Data_Science)
