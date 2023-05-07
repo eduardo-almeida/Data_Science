@@ -12,13 +12,14 @@ Trabalho com webscraping
 
 **Background in:** Python | SQL | Machine Learning   
 
+
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)   
+* [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)
 
 
-## Projetos:
+## Projetos
 
-Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
+Volte a página inícial do meu gitHub 
 
 * **Lista de todos os projetos realizados:** https://github.com/eduardo-almeida/Data_Science
 ---
