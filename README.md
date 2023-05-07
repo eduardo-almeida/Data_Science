@@ -28,12 +28,12 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * [**Projeto de consumo de api do governo:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Compras%20%20Governamentais) Um MOC onde consumo uma api do governo com a biblioteca request e uso merge para unir várias tabelas, tornando mais inteligível para o usuário.
 
 * [**Estudo de Segurança Pública:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Seguranca%20P%C3%BAblica) Realização de um estudo de caso para fins de verificação de quais ruas e bairros onde mais ocorrem roubos, utilizando  dados disponibilizados pela Secretaria de Segurança de São Paulo. Utilização do modelo Arima para prever a quantidade de novos casos.
-* 
+ 
 * [**Projeto de Webscraping::**](https://github.com/eduardo-almeida/Data_Science/tree/master/Webscraping) Um MOC simples para aprender web scraping e usar a biblioteca request.
 
-* [**Estudos relacionados a quantitative Trading:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Trading)
-
 * [**Desafios propostos pelo curso de aceleração da Codenation:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation) Desafios práticos com foco em funções estatísticas, tais como PDF, CDF, PCA e RFE. Utilização de dados reais provenientes do Enem, dos Atletas Olímpicos e dos jogadores da FIFA.
+
+* [**Estudos relacionados a quantitative Trading:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Trading)
 
 * [**Desafios realizados no Kaggle:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Kaggle)
  
