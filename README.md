@@ -42,9 +42,9 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 ## Cursos:
  
 * [**Curso Imersão em ciência de Dados (40h):**](https://drive.google.com/file/d/1EIDIyn8AUL4VAziqoQneSJcIP6_jUUVR/view)
-* [**Curso Introdução ao Docker (8h):**](https://drive.google.com/file/d/1jeYVcLbMzI5ex3n_TYZZTl7QzW95Irbg/view)
-* [**Curso Introdução ao Kubernetes (4h):**](https://drive.google.com/file/d/11XmwTbvc4JqA4xVcBqkr6XEL-dFLV0Ju/view)
-* [**I Hackathon de Ciência de Dados:**](https://drive.google.com/file/d/16a5Z-sOdFxARrK9HN1lixLmTWtHzkkdP/view)
+* [**Curso Introdução ao Docker (8h):**](https://drive.google.com/file/d/1vcEVnqIz3US6Aer5gIop2sQzo7z1h6aS/view?usp=share_link)
+* [**Curso Introdução ao Kubernetes (4h):**](https://drive.google.com/file/d/1zU2cLKNeBWe0R3AP_sMeIYuqaWi8lTll/view?usp=share_link)
+* [**I Hackathon de Ciência de Dados:**](https://drive.google.com/file/d/16a5Z-sOdFxARrK9HN1lixLmTWtHzkkdP/view?usp=share_link)
 * [**Python para Finanças: Investimentos & Análise de Dados (7h):**](https://www.udemy.com/certificate/UC-b5ec8341-d243-4c5e-8e59-f432018826ed/)
-* [**Python Fundamentos para Análise de Dados (54h):**](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+* [**Fundamentos de Linguagem Python Para Análise de Dados e Data Science (72):**](https://www.datascienceacademy.com.br/cursosgratuitos)
 * [**Curso como Vencer uma Competição de Ciência de dados (54h):**](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
