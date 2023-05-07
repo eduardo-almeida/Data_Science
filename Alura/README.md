@@ -1,34 +1,37 @@
 
 [![author](https://img.shields.io/badge/author-Eduardo%20Almeida-red.svg)](https://www.linkedin.com/in/eduardo-almeida-814a676a/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/karinnecristina/Data-Science)
+ 
 
-<p align="center">
-  <img src="codenation.png" >    
-</p>  
 
-# Eduardo Almeida
-<sub>*Data Science*</sub>
 
-# Codenation Data Science 
+# Alura
 
-Esse repositório contém os notebooks utilizados nas resoluções dos desafios do programa AceleraDev Data Science, oferecido pela [Codenation](https://www.codenation.dev/).
+Esse repositório contém os notebooks utilizados nas resoluções da trilha de formação da [Alura](https://cursos.alura.com.br/).
 
-* coestatistica-1: [qual estado possui os clientes com melhores pontuações de crédito?](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation/coestatistica-1)
-* data-science-0: [Pré-processamento de dados em Python](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation/data-science-0)
-* data-science-1: [Funções de probabilidade: PDF, CDF](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation/data-science-2)
-* data-science-2: [Funções de probabilidade: Utilizando o pacote SciPy](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation/data-science-2)
-* data-science-3: [Redução de dimensionalidade e seleção de variáveis: PCA e RFE](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation/data-science-3)
-* data-science-4: [Feature engineering](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation/data-science-4)
-* enem-2: [Descubra as melhores notas de matemática do ENEM 2016](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation/enem-2)
-* enem-4: [Descubra quem fez o ENEM 2016 apenas para treino](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation/enem-4)
-
+* [**Data Science: analise e visualização de dados (6h):**](https://cursos.alura.com.br/course/data-science-primeiros-passos)
+* [**Python Pandas: tratando e analisando dados (12h):**](https://cursos.alura.com.br/course/introducao-python-pandas)
+* [**Pandas: conhecendo a biblioteca (8h):**](https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca)
+* [**Pandas: seleção e agrupamento de dados (8h):**](https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados) 
+* [**Pandas: transformação e manipulação de dados (6h):**](https://cursos.alura.com.br/course/pandas-transformacao-manipulacao-dados)
+* [**Estatística com Python: frequências e medidas (10h):**](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas)
+* [**Estatística com Python: probabilidade e amostragem (10h):**](https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem)
+* [**Data Science: análise de series temporais (6h):**](https://cursos.alura.com.br/course/data-science-series-temporais)
+* [**Regressão linear: testando relações e prevendo resultados (12h):**](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear)
+* [**Regressão Linear: técnicas avançadas de modelagem (5h):**](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel)
+* [**Data Visualization: criação de gráficos com o Matplotlib (6h):**](https://cursos.alura.com.br/course/customizacao-matplot)
+* [**Data Visualization: técnicas de visualização com Google Sheets (8h):**](https://cursos.alura.com.br/course/data-visualization-visualizacao-google-sheets)
+* [**Data Visualization: explorando com Seaborn (8h):**](https://cursos.alura.com.br/course/data-visualization-com-seaborn)
+* [**Data Science: testes estatísticos com Python (6h):**](https://cursos.alura.com.br/course/data-science-introducao-a-testes-estatisticos-com-python)
+* [**Análise de experimentos: testes, mapas de cores e análises dos dados (6h):**](https://cursos.alura.com.br/course/analise-de-experimentos)
+* [**Corretor Ortográfico em Python: aplicando técnicas de NLP (10h):**](https://cursos.alura.com.br/course/nlp-corretor-ortografico)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)
 
 
-## Projetos:
+## Projetos
 
-Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
+Volte a página inícial do meu gitHub 
 
 * **Lista de todos os projetos realizados:** https://github.com/eduardo-almeida/Data_Science
 ---
