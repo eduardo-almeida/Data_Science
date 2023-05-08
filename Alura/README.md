@@ -8,7 +8,7 @@
 
 Esse repositório contém os notebooks utilizados nas resoluções da trilha de formação da [Alura](https://cursos.alura.com.br/).
 
-* [**Data Science: analise e visualização de dados (6h):**](https://cursos.alura.com.br/course/data-science-primeiros-passos)
+* [**Data Science: analise e visualização de dados (6h):**](https://github.com/eduardo-almeida/Data_Science/blob/master/Alura/Analise%20e%20Visualizacao/Introdu%C3%A7%C3%A3o_a_Data_Science.ipynb)
 * [**Python Pandas: tratando e analisando dados (12h):**](https://cursos.alura.com.br/course/introducao-python-pandas)
 * [**Pandas: conhecendo a biblioteca (8h):**](https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca)
 * [**Pandas: seleção e agrupamento de dados (8h):**](https://cursos.alura.com.br/course/pandas-selecao-agrupamento-dados) 
