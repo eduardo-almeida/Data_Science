@@ -7,7 +7,8 @@
 # Eduardo Almeida 
 
 ## NBViewer
-Utilize o NBViewer para visualizar os notebook sem precisar baixar todo o projeto:
+Utilize o NBViewer para visualizar os notebook sem precisar baixar todo o projeto: Não precisa mais
+Corriguir
 * [ETL](https://nbviewer.org/github/eduardo-almeida/Data_Science/blob/master/Olist-ML-models/ETL.ipynb)
 
 
