@@ -9,7 +9,7 @@ Esse repositório contém os notebooks utilizados nas resoluções da trilha de 
 * [**Pandas: conhecendo a biblioteca (8h):**](https://github.com/eduardo-almeida/Data_Science/blob/master/Alura/Pandas%20Conhecendo%20a%20Biblioteca/Pojeto%20Imobiliaria.ipynb)
 * [**Pandas: seleção e agrupamento de dados (8h):**](https://github.com/eduardo-almeida/Data_Science/blob/master/Alura/Pandas%20Selecao%20e%20Agrupamento%20de%20Dados/Selecao%20e%20Agrupamento.ipynb) 
 * [**Pandas: transformação e manipulação de dados (6h):**](https://github.com/eduardo-almeida/Data_Science/blob/master/Alura/Pandas%20-%20Transformacao%20e%20Manipulacao%20de%20Dados/Transformacao%20e%20Manipulacao.ipynb)
-* [**Estatística com Python: frequências e medidas (10h):**](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas)
+* [**Estatística com Python: frequências e medidas (10h):**](https://github.com/eduardo-almeida/Data_Science/blob/master/Alura/Estatistica%20Frequencias%20e%20Medidas/Frequencias%20e%20Medidas.ipynb)
 * [**Estatística com Python: probabilidade e amostragem (10h):**](https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem)
 * [**Data Science: análise de series temporais (6h):**](https://cursos.alura.com.br/course/data-science-series-temporais)
 * [**Regressão linear: testando relações e prevendo resultados (12h):**](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear)
