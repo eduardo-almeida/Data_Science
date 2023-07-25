@@ -10,7 +10,7 @@ Esse repositório contém os notebooks utilizados nas resoluções da trilha de 
 * [**Pandas: seleção e agrupamento de dados (8h):**](https://github.com/eduardo-almeida/Data_Science/blob/master/Alura/Pandas%20Selecao%20e%20Agrupamento%20de%20Dados/Selecao%20e%20Agrupamento.ipynb) 
 * [**Pandas: transformação e manipulação de dados (6h):**](https://github.com/eduardo-almeida/Data_Science/blob/master/Alura/Pandas%20-%20Transformacao%20e%20Manipulacao%20de%20Dados/Transformacao%20e%20Manipulacao.ipynb)
 * [**Estatística com Python: frequências e medidas (10h):**](https://github.com/eduardo-almeida/Data_Science/blob/master/Alura/Estatistica%20Frequencias%20e%20Medidas/Frequencias%20e%20Medidas.ipynb)
-* [**Estatística com Python: probabilidade e amostragem (10h):**](https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem)
+* [**Estatística com Python: probabilidade e amostragem (10h):**](https://github.com/eduardo-almeida/Data_Science/blob/master/Alura/Estatistica%20Probabilidade%20e%20Amostragem/Probabilidade%20e%20Amostragem.ipynb)
 * [**Data Science: análise de series temporais (6h):**](https://cursos.alura.com.br/course/data-science-series-temporais)
 * [**Regressão linear: testando relações e prevendo resultados (12h):**](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear)
 * [**Regressão Linear: técnicas avançadas de modelagem (5h):**](https://cursos.alura.com.br/course/data-science-modelo-regressao-linear-assimetria-statsmodel)
