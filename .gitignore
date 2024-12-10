@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+LLM\Projeto\.env
+LLM\Projeto\bbb.txt
 
 # Spyder project settings
 .spyderproject
