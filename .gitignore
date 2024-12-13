@@ -109,9 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-LLM\Projeto\.env
-LLM\base\
-LLM\base\Scripts\
+LLM/Projeto/.env
+LLM/base/
 
 # Spyder project settings
 .spyderproject
