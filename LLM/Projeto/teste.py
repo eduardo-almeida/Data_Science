@@ -39,6 +39,15 @@ chain = prompt | llm
 
 input = "Explique para mim em até 1 parágrafo o conceito de redes neurais, de forma clara e objetiva"
 
-res = chain.invoke({"input": input})
-print(res)
+# res = chain.invoke({"input": input})
+# print(res)
 print("-----")
+
+llm = ChatOllama(
+    model="phi3",
+    temperature=0.1
+)
+
+chain3 = prompt | llm
+res = chain3.invoke({"input": input})
+print(res.content)
