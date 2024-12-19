@@ -71,4 +71,4 @@ res = chain_rag.invoke("Qual filme ganhou mais oscars na premiação de 2024?")
 
 print(res)
 
-vectorstore.delete_collection()
+# vectorstore.delete_collection()
