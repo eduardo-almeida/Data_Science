@@ -116,6 +116,8 @@ LLM/Bootcamp/.env
 LLM/Bootcamp/Projeto1/.env
 LLM/Bootcamp/.base/
 LLM/Bootcamp/.base/Scripts/
+LLM/.base/
+LLM/.base/Scripts/
 
 # Spyder project settings
 .spyderproject
