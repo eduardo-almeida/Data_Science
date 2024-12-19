@@ -111,6 +111,11 @@ env.bak/
 venv.bak/
 LLM/Projeto/.env
 LLM/base/
+LLM/base/Scripts/
+LLM/Bootcamp/.env
+LLM/Bootcamp/Projeto1/.env
+LLM/Bootcamp/.base/
+LLM/Bootcamp/.base/Scripts/
 
 # Spyder project settings
 .spyderproject
