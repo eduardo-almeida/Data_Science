@@ -10,6 +10,10 @@ import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning) 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
+
+
+
+
 llm = HuggingFaceEndpoint(repo_id="meta-llama/Meta-Llama-3-8B-Instruct", temperature=0.1)
 resp = llm.invoke([HumanMessage(content = "Olá! Tudo bem?")])
 
