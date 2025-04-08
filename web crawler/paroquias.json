@@ -1,0 +1,152 @@
+[
+    {
+        "endereco": "Rua do Entardecer, 130",
+        "bairro": "Vicente Pinzon",
+        "cep": "60181-190",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Rua Amélia Benebien, 555",
+        "bairro": "Papicu",
+        "cep": "60176-010",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Rua Nogueira Acioli, 805",
+        "bairro": "Aldeota",
+        "cep": "60110-140",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Rua Doutor Atualpa, 430",
+        "bairro": "Ellery",
+        "cep": "60321-070",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Avenida Adenanteras, 175",
+        "bairro": "Cidade Dois Mil",
+        "cep": "60190-560",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Rua Visconde de Mauá,  905",
+        "bairro": "Aldeota",
+        "cep": "60125-160",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Avenida da Universidade, 2974",
+        "bairro": "Benfica",
+        "cep": "60020-181",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Avenida Duque de Caxias, s/n, Praça do Carmo",
+        "bairro": "Centro",
+        "cep": "60025-180",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Rua Joaquim Torres, 185",
+        "bairro": "Joaquim Távora",
+        "cep": "60135-130",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Avenida da Abolição, 3929",
+        "bairro": "Mucuripe",
+        "cep": "60165-082",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Avenida Duque de Caxias, 235 A",
+        "bairro": "Centro",
+        "cep": "60035-110",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Praça Farias Brito, s/n",
+        "bairro": "Otávio Bonfim",
+        "cep": "60011-280",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Avenida do Imperador, 1165",
+        "bairro": "Centro",
+        "cep": "60015-052",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Rua Paula Rodrigues, 100",
+        "bairro": "Fátima",
+        "cep": "60411-270",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Rua Sobral, s/n",
+        "bairro": "Centro",
+        "cep": "60030-030",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Avenida Padre Joaquim Colaço Dourado,  s/n – subsolo da igreja",
+        "bairro": "De Lourdes",
+        "cep": "60177-115",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Avenida Desembargador Moreira, 2211",
+        "bairro": "Dionísio Torres",
+        "cep": "60170-002",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Avenida Filomeno Gomes, 291",
+        "bairro": "Jacarecanga",
+        "cep": "60010-280",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Não informado",
+        "bairro": "Não informado",
+        "cep": "Não informado",
+        "cidade": "Não informado"
+    },
+    {
+        "endereco": "Rua Padre Anchieta, 400",
+        "bairro": "Monte Castelo",
+        "cep": "60325-520",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Avenida Jovita Feitosa, 2733",
+        "bairro": "Parquelândia",
+        "cep": "60455-410",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Avenida Bezerra de Menezes, 1256",
+        "bairro": "São Gerardo",
+        "cep": "60325-001",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Rua João Cordeiro, 679",
+        "bairro": "Meireles",
+        "cep": "60110-300",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Rua Professor Álvaro Costa, 257",
+        "bairro": "Praia do Futuro",
+        "cep": "60182-012",
+        "cidade": "Fortaleza-CE"
+    },
+    {
+        "endereco": "Rua Capitão Gustavo, 3940",
+        "bairro": "Tauape",
+        "cep": "60120-075",
+        "cidade": "Fortaleza-CE"
+    }
+]
