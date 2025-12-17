@@ -1,5 +1,4 @@
 services:
-
   evolution-api:
     container_name: evolution_api
     image: evoapicloud/evolution-api:latest
@@ -38,24 +37,24 @@ services:
     ports:
       - 6379:6379
 
-  bot:
-    build: .
-    container_name: bot
-    ports:
-      - "8000:8000"
-    env_file:
-      - .env
-    depends_on:
-      - evolution-api
-      - redis
-    restart: always
-    volumes:
-      - ./vectorstore_data:/app/vectorstore
-      - ./rag_files:/app/rag_files
+  # bot:
+  #   build: .
+  #   container_name: bot
+  #   ports:
+  #     - "8000:8000"
+  #   env_file:
+  #     - .env
+  #   depends_on:
+  #     - evolution-api
+  #     - redis
+  #   restart: always
+  #   volumes:
+  #     - ./vectorstore_data:/app/vectorstore
+  #     - ./rag_files:/app/rag_files
 
 volumes:
   evolution_instances:
   postgres_data:
   redis:
-  vectorstore_data:
-  rag_files:
+  # vectorstore_data:
+  # rag_files:
