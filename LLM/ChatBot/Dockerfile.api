@@ -1,4 +1,4 @@
-FROM python:3.11
+FROM python:3.13
 
 ENV PYTHONUNBUFFERED=1
 
@@ -10,8 +10,12 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-ENV FLASK_APP=app.py
+EXPOSE 8000
 
-EXPOSE 5000
+CMD ["uvicorn", "app2:app", "--host", "0.0.0.0", "--port", "8000"]
 
-CMD ["flask", "run", "--host=0.0.0.0", "--port=5000", "--debug"]
+# ENV FLASK_APP=app.py
+
+# EXPOSE 5000
+
+# CMD ["flask", "run", "--host=0.0.0.0", "--port=5000", "--debug"]
